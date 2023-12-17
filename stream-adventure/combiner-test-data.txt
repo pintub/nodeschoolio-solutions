@@ -1,0 +1,9 @@
+{"type":"genre","name":"cyberpunk"}  
+{"type":"book","name":"Neuromancer"}  
+{"type":"book","name":"Snow Crash"}  
+{"type":"genre","name":"space opera"}  
+{"type":"book","name":"A Deepness in the Sky"}  
+{"type":"book","name":"Void"}
+{"type":"genre","name":"space opera2"}  
+{"type":"book","name":"A Deepness in the Sky2"}  
+{"type":"book","name":"Void2"}

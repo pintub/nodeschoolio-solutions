@@ -1,0 +1,7 @@
+- Stream Types : Readable, Writable, Duplex
+- Readable.pipe(Writable)
+- How to Read Stream
+    - Read chunk of data and write to another stream
+    - Read all chunks using concat-stream and act upon concatenated data
+- Stream.on() event types
+    - Readable and Writable Stream on different event types https://nodejs.org/api/stream.html#writable-streams 
